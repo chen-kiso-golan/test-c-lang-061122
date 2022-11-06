@@ -1,0 +1,4 @@
+﻿  Q3.c
+C:\Users\behap\Desktop\tets c lang - chen golan\tets c lang - chen golan\Q3.c(52,33): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\behap\Desktop\tets c lang - chen golan\tets c lang - chen golan\Q3.c(33,20): warning C4101: 'ch': unreferenced local variable
+  tets c lang - chen golan.vcxproj -> C:\Users\behap\Desktop\tets c lang - chen golan\x64\Debug\tets c lang - chen golan.exe
